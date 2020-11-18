@@ -1,11 +1,11 @@
 # Pendahuluan
  Project ini untuk memenuhi tugas yang diberikan oleh mentor saya yaitu membuat aplikasi cross-platform menggunakan React Native, untuk tujuan pembuatan masih dalam tahap diskusi
 
-# What's Inside?
+# Notes
  Project ini menggunakan Node.js dan Yarn sebagai Package Manager nya (pastikan node dan yarn terinstall), untuk running project, gunakan `react-native run-android`
 
 # Version Log
-V1
+:pushpin: V1
 - Inisialisasi Project
 - Baru ada halaman Login dan Splash Screen (Masih menggunakan Timeout)
 - Integrasi Library Formik untuk validasi Form
